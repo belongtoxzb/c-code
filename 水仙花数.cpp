@@ -1,6 +1,6 @@
-//Ë®ÏÉ»¨Êı 
+//æ°´ä»™èŠ±æ•° 1000ä»¥å†…
 #include<stdio.h>
-//#include<time.h> Ê±¼äÍ·ÎÄ¼ş
+//#include<time.h> æ—¶é—´å¤´æ–‡ä»¶
 int main()
 {
 	int a,b,c,i;
@@ -13,6 +13,6 @@ int main()
         if(a*a*a+b*b*b+c*c*c==i)
         printf("%d\t",i);
 	}
-//	printf("%.2f\n",(double)clock()/CLOCKS_PER_SEC);Êä³öÊ±¼ä Á½Î»Ğ¡Êı
+//	printf("%.2f\n",(double)clock()/CLOCKS_PER_SEC);è¾“å‡ºæ—¶é—´ ä¸¤ä½å°æ•°
 	return 0;
 }
